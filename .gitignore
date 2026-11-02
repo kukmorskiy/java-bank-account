@@ -6,6 +6,7 @@
 
 # Служебные файлы VS Code
 .vscode/
+*.code-workspace
 
 # Системный мусор
 .DS_Store
